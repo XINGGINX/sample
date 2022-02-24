@@ -3,7 +3,8 @@ import pandas
 
 
 
-
+def b2_function():
+	print("gg")
 
 
 
